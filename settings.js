@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = '𝙰𝙱𝚄 𝚆𝙰 𝙼𝙳'
-global.botname = 'Abu-Md'
-global.footer = 'jsl ABU.'
+global.owner = ['917510734295']
+global.premium = ['917510734295']
+global.ownernomer = '917510734295'
+global.ownername = 'ī.am/ꪶꜱᴜꜰɪꫂ⁩⁩⁩'
+global.botname = 'not-sufi'
+global.footer = 'sufi.'
 global.ig = 'https://github.com/Afx-Abu'
 global.region = 'India, NorthEast, Mizoram'
 global.sc = 'https://github.com/Afx-Abu/ABU-MD'
 global.myweb = 'https://youtu.be/'
-global.packname = 'ABU Bot'
-global.author = 'JSL ABU'
+global.packname = 'ɴᴏᴛ.ꜱᴜꜰɪ⁴̅⁰͍³〆⁩⁩'
+global.author = '𝑛𝑜𝑡•𝑠𝑢𝑓𝑖'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -60,19 +60,19 @@ global.mess = {
    potionawal: 1
 }
 
-global.ownernomer = process.env.OWNER_NUMBER || '917025994178'
-global.packname = process.env.PACKNAME ||'ᴀʙᴜ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ᴊsʟ/ᴀʙᴜ'
-global.botname = process.env.BOT_NAME ||'ᴊsʟ/ᴀʙᴜ'
-global.myweb = process.env.INSTA_LINK ||'https://instagram.com/'
-global.footer = process.env.FOOTER_CAPTION ||'ᴊsʟ/ᴀʙᴜ'
+global.ownernomer = process.env.OWNER_NUMBER || '917510734295'
+global.packname = process.env.PACKNAME ||'ɴᴏᴛ.ꜱᴜꜰɪ⁴̅⁰͍³〆⁩⁩'
+global.author = process.env.AUTHOR ||'𝑛𝑜𝑡•𝑠𝑢𝑓𝑖'
+global.botname = process.env.BOT_NAME ||'ɴᴏᴛ-ꜱᴜꜰɪ'
+global.myweb = process.env.INSTA_LINK ||'https://instagram.com/_not_sufi_?'
+global.footer = process.env.FOOTER_CAPTION ||'ꪶ𝛮͢𝛩𝑇 ✗ 𝛿𝑈͢𝐹𝛪ꫂ    '
 global.myweb = process.env.GIT_LINK ||'https://github.com/Afx-Abu/ABU-MD'
 global.name = 'ABU MULTI-DEVICE'
-global.myweb = 'https://instagram.com/'
+global.myweb = 'https://instagram.com/_not_sufi_'
 global.sc = 'https://github.com/Afx-Abu/ABU-MD'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴀʙᴜ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Jsl/Abu'
+global.wm = process.env.WATERMARK|| 'ɴᴏᴛ-ꜱᴜꜰɪ'
+global.owner_name = process.env.OWNER_NAME || 'ī.am/ꪶꜱᴜꜰɪꫂ⁩⁩⁩'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
